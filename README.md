@@ -10,8 +10,8 @@ El proyecto se puede ejecutar con el script
 La aplicación se puede ejecutar de modo local con http://localhost:9000/
 
 ### Request
-Add User
-Update user
-Delete User
-Get a user
+Add User,
+Update user,
+Delete User,
+Get a user,
 Get all users
